@@ -1,4 +1,4 @@
-# CrystalYouTubeDownloader
+# CrystalYouTubeDownloader Privacy 
 
 Crystal YouTube Downloader, is an application designed for allowing its users to download the videos. 
 from YouTube, to be able to view them offline later, the downloaded files are hosted at Youtube.com .
